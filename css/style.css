@@ -5,6 +5,16 @@
  *
  * Made By MaterializeCSS.com
  */
+a {
+  color: green;
+}
+
+.dropdown-content li > a, .dropdown-content li > span {
+      font-size: 1.2rem;
+      color: #2962ff;
+      display: block;
+      padding: 1rem 1rem; }
+
 
 nav ul a,
 nav .brand-logo {
@@ -15,8 +25,10 @@ p {
   line-height: 2rem;
 }
 
+
+
 .button-collapse {
-  color: #26a69a;
+  color: #2962ff;
 }
 
 .parallax-container {

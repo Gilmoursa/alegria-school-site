@@ -5706,7 +5706,7 @@ button.btn-floating {
       background-color: #eee; }
     .dropdown-content li > a, .dropdown-content li > span {
       font-size: 1.2rem;
-      color: #26a69a;
+      color: #2962ff;
       display: block;
       padding: 1rem 1rem; }
 
@@ -6769,7 +6769,7 @@ select {
     float: none;
     padding: 0 15px; }
     .side-nav li:hover, .side-nav li.active {
-      background-color: rgba(0, 150, 136, 0.7); }
+      background-color: #2962ff; }
   .side-nav a {
     color: #444;
     display: block;
